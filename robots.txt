@@ -1,0 +1,5 @@
+# TikTok Growth Lab (tiktok03) — Robots Policy
+User-agent: *
+Allow: /
+
+Sitemap: https://tiktok-mode.github.io/tiktok03/sitemap.xml
